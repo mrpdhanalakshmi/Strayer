@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E5486C192281E7D5000D4874 /* LoginUITest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5486C182281E7D5000D4874 /* LoginUITest.swift */; };
 		E5AB318C227CC4CF00530B07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AB318B227CC4CF00530B07 /* AppDelegate.swift */; };
 		E5AB318E227CC4CF00530B07 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AB318D227CC4CF00530B07 /* ViewController.swift */; };
 		E5AB3191227CC4CF00530B07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5AB318F227CC4CF00530B07 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E5486C182281E7D5000D4874 /* LoginUITest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginUITest.swift; sourceTree = "<group>"; };
 		E5AB3188227CC4CE00530B07 /* Strayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Strayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5AB318B227CC4CF00530B07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5AB318D227CC4CF00530B07 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 			children = (
 				E5AB31AE227CC4D500530B07 /* StrayerUITests.swift */,
 				E5AB31B0227CC4D500530B07 /* Info.plist */,
+				E5486C182281E7D5000D4874 /* LoginUITest.swift */,
 			);
 			path = StrayerUITests;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5AB31AF227CC4D500530B07 /* StrayerUITests.swift in Sources */,
+				E5486C192281E7D5000D4874 /* LoginUITest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
